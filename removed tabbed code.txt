@@ -1,0 +1,16 @@
+deleted tabbed content structure code
+
+<ul class="nav nav-tabs" role="tablist">
+  <li role="presentation" class="active">
+    <a href="#peter" data-toggle="tab" aria-controls="home" role="tab">Peter Pan, CEO</a>
+  </li>
+  <li role="presentation" class="">
+    <a href="#dhanasekaran" data-toggle="tab" aria-controls="profile" role="tab">Dhanasekaran Witherspoon, CFO</a>
+  </li>
+  <li role="presentation" class="">
+    <a href="#agumbe" data-toggle="tab" aria-controls="messages" role="tab">Agumbe Tang, CTO</a>
+  </li>
+  <li role="presentation" class="">
+    <a href="#alberto" data-toggle="tab" aria-controls="settings" role="tab">Alberto Somayya, EC</a>
+  </li>
+</ul>
